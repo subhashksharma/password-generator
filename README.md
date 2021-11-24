@@ -1,3 +1,7 @@
+## Deployed on vecel to take a look.
+https://pass-gen-fgzhls6ok-subhashksharma.vercel.app/
+
+
 # PasswordgeneratorAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.2.
